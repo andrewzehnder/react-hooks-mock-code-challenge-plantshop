@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "New Plant",
+      "image": "https://www.fifthstreetflowershop.com/files/3215/8030/9377/10DracaenaLimelight.JPEG",
+      "price": "1900",
+      "id": 8
     }
   ]
 }
